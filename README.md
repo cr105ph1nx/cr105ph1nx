@@ -1,6 +1,6 @@
 # Hi, I'm Lilly 👋 🐧
 <br/>✨ I'm currently a Master's 1 Informations and Systems' Security student at USTHB.
-<br/>✨ Ex Vice Secretary at [@OpenMindsClub](http://openmindsclub.net/).
+<br/>✨ Team IT Leader and Ex Vice Secretary at [@OpenMindsClub](http://openmindsclub.net/).
 
 ![passion](https://img.shields.io/badge/passion-writing-blue)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
@@ -11,9 +11,9 @@
 ```js
 const Lilly = {
     askMeAbout: ["Books", "Writing", "Greek Mythology", "Anime", "A bit of cybersec"],
-    meDoes:["My best", "Write sometimes", "Play mmorpgs", "Design book covers among other things"],
+    meDoes:["My best", "Write sometimes", "Play mmorpgs", "Digital art", "Design book covers among other things"],
     meCodes:["Web apps", "Mobile apps", "Soft dev", "I will one day automate my life with all those 
-    useless scripts I make", "Various personal and volunteering projects"]
+    useless scripts I make", "Various freelance, personal and volunteering projects"]
     },
 }
 ```
